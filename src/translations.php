@@ -233,6 +233,15 @@ return [
         "Longest Week Streak" => "दीर्घकालीन साप्ताहिक सातत्यता",
         "Present" => "आज पर्यंत",
     ],
+    "ms" => [
+        "Total Contributions" => "Jumlah Sumbangan",
+        "Current Streak" => "Tindakan Semasa",
+        "Longest Streak" => "Tindakan Terpanjang",
+        "Week Streak" => "Tindakan Setiap Minggu",
+        "Longest Week Streak" => "Tindakan Setiap Minggu Terpanjang",
+        "Present" => "Sekarang",
+        "Excluding" => "Mengecualikan",
+    ],
     "ne" => [
         "Total Contributions" => "कुल योगदान",
         "Current Streak" => "हालको दैनिक योगदान",
@@ -300,6 +309,7 @@ return [
         "Week Streak" => "निरन्तरसप्ताहाः",
         "Longest Week Streak" => "दीर्घतमाः निरन्तरसप्ताहाः",
         "Present" => "वर्तमान",
+        "Excluding" => "बहिष्करणम्",
     ],
     "sr" => [
         "Total Contributions" => "Укупно додавања",
@@ -309,6 +319,15 @@ return [
         "Longest Week Streak" => "Најдужа недељена серија",
         "Present" => "Данас",
         "Excluding" => "Искључујући",
+    ],
+    "su" => [
+        "Total Contributions" => "Total Kontribusi",
+        "Current Streak" => "Aksi Ayeuna",
+        "Longest Streak" => "Aksi Pangpanjangna",
+        "Week Streak" => "Aksi Tiap Minggon",
+        "Longest Week Streak" => "Aksi Tiap Minggon Pangpanjangna",
+        "Present" => "Ayeuna",
+        "Excluding" => "Teu Kaasup",
     ],
     "sv" => [
         "Total Contributions" => "Totalt antal uppladningar",
@@ -333,6 +352,15 @@ return [
         "Week Streak" => "வார\nபங்களிப்புகள்",
         "Longest Week Streak" => "நீண்ட வார\nபங்களிப்புகள்",
         "Present" => "இன்றுவரை",
+    ],
+    "th" => [
+        "Total Contributions" => "คอนทริบิ้วต์ทั้งหมด",
+        "Current Streak" => "สตรีคปัจจุบัน",
+        "Longest Streak" => "สตรีคที่ยาวนานที่สุด",
+        "Week Streak" => "สตรีคประจำสัปดาห์",
+        "Longest Week Streak" => "สตรีคประจำสัปดาห์\nที่ยาวนานที่สุด",
+        "Present" => "ปัจจุบัน",
+        "Excluding" => "ยกเว้น",
     ],
     "tr" => [
         "Total Contributions" => "Toplam Katkı",
